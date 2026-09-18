@@ -1,5 +1,5 @@
 # House Price Prediction Model
-Predicting house prices for an Iowa-based real estate investment firm, with the goal of spotting homes that are underpriced relative to their features (bedrooms, lot size, year built, etc.), so the firm can buy below market and resell at a profit. This model predicts what a house should sell for based on its features, so a big gap between predicted price and listed price can flag a deal worth investigating.
+Predicting house prices for an Iowa-based real estate investment firm, with the goal of spotting homes that are underpriced relative to their features (bedrooms, lot size, year built, etc.), so the firm can buy below market and resell at a profit. This model predicts what a house should sell for based on its features, so a big gap between predicted price and listed price can flag a deal worth investigating. This was a project from the Possible Tech Career Accelerator.
 
 ## Datasets
 - Source: [Kaggle Home Data for ML Course](https://www.kaggle.com/competitions/home-data-for-ml-course)
